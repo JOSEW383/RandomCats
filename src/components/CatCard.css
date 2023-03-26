@@ -1,0 +1,15 @@
+.cat_card{
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p{
+    margin-top: 20px;
+    width: 500PX;
+}
+
+img{
+    border-radius: 25px;
+}
