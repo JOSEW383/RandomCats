@@ -34,7 +34,7 @@ This app was tested using [Playwright](https://playwright.dev/), to run test set
 
 ## Technologies used
 
-- [vite](https://vitejs.dev/)
+- [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
   - [UseState](https://reactjs.org/docs/hooks-state.html)
   - [UseEffect](https://reactjs.org/docs/hooks-effect.html)
