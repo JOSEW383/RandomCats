@@ -1,6 +1,8 @@
 # Random cats facts
 
 Web application developed in react whose objective is to demonstrate how to handle an API with said framework.
+<p><img src="https://github.com/JOSEW383/keeper-app/blob/master/public/keeper-app_demo.gif" alt="Demo" width="50%" height="50%" /></p>
+
 
 ## Features
 
