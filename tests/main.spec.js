@@ -1,10 +1,8 @@
 import { test, expect } from "@playwright/test";
 
-const LOCALHOST_URL = "http://localhost:5173/";
-const CATAAS_URL = "https://cataas.com";
 
 test("Generate a random fact", async ({ page }) => {
-  await page.goto(LOCALHOST_URL);
+  await page.goto("/");
 
   await expect(page).toHaveTitle("RandomCats");
 
