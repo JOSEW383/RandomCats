@@ -1,5 +1,5 @@
-[![Playwright Tests](https://github.com/JOSEW383/random-cats/actions/workflows/playwright.yml/badge.svg)](https://github.com/JOSEW383/random-cats/actions/workflows/playwright.yml)
 # Random cats facts
+[![Playwright Tests](https://github.com/JOSEW383/random-cats/actions/workflows/playwright.yml/badge.svg)](https://github.com/JOSEW383/random-cats/actions/workflows/playwright.yml)
 
 Web application developed in react whose objective is to demonstrate how to handle an API with said framework.
 
